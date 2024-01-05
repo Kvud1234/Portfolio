@@ -1,0 +1,66 @@
+body{
+    background-image:url(./1255574-black-wallpaper-1920x1200-for-android-tablet.jpg);
+}
+
+.bord{
+    background-color: rgb(162, 157, 157);
+    margin: 10px 0 10px 0;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.bord li{
+    font-size: 50px;
+    display: inline-block;
+    list-style: none;
+    padding:0 5px 25px 0 ;
+}
+   
+.bord li a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 15px;
+    text-decoration: none;
+    background-color:rgb(31, 58, 58);
+    padding: 10px 50px 10px 50PX;   
+    
+}
+.pr1{
+    display: grid;
+    grid-template-columns: 365px 1fr;
+}
+.image{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 9px;
+    margin:55px 0 0 80px ;
+    color: aliceblue;
+    
+}
+.name{
+    margin: 70px 0 0 90px;
+}
+.name>li1{
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    
+}
+.name>li2{
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    margin-left:50px;
+}
+.name>li3{
+    color: rgb(162, 157, 157);
+    font-size: 35px;
+    padding-top:250px ; 
+
+}
+.name>li4{
+    color: rgb(162, 157, 157);
+    font-size: 35px;  
+}    
+
+
+   

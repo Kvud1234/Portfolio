@@ -1,0 +1,28 @@
+body{
+    background-image: url(./1255574-black-wallpaper-1920x1200-for-android-tablet.jpg);
+}
+h1{
+    color: aliceblue;
+    font-size: 45px;
+    padding-bottom:25px ;
+    text-align: center;
+    
+}
+.contact{
+    display: grid;
+    grid-template-columns: 95px 1fr;
+    margin-left: 500px;
+    
+}
+.icons{
+    color: aliceblue;
+    font-size: large;
+    
+    
+}    
+.icon_name{
+    font-size: 20px;
+    color: aliceblue;
+    padding-bottom:10px ;
+
+}
